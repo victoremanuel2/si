@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "sí!",
-                afirmacao: "tem que fazer exercício "
+                afirmacao: "tem que fazer exercício. "
             },
             {
                 texto: "no!",
-                afirmacao: "que bueno"
+                afirmacao: "que bueno."
             }
         ]
     },
@@ -27,7 +27,7 @@ const perguntas = [
             },
             {
                 texto: "si",
-                afirmacao: "así que deja de"
+                afirmacao: "así que deja de."
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "si",
-                afirmacao: "que legal isso é muito bom"
+                afirmacao: "que legal isso é muito bom."
             },
             {
                 texto: "no",
-                afirmacao: "aprenda pois é uma lingua muito legal"
+                afirmacao: "aprenda pois é uma lingua muito legal."
             }
         ]
     },
@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "no",
-                afirmacao: "as vezes é bom ficar sozinho"
+                afirmacao: "as vezes é bom ficar sozinho."
             },
             {
                 texto: "si",
-                afirmacao: "que bom cuida bem dele ou dela "
+                afirmacao: "que bom cuida bem dele ou dela. "
             }
         ]
     },
